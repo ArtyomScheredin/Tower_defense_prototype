@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7b4ea63-d548-4858-a636-4f7891b997f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tower defense 3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tower defense 3/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tower defense 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tower defense 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BoxColliderListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BoxColliderListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyaghkiyZnak.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyaghkiyZnak.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/MainIntelligenceDirectorate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/MainIntelligenceDirectorate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/StepBCDHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/StepBCDHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/07/072450ffed31fe545a60f71f33f53916" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/09/09e28640d754a611467eebfb261ed749" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/11/1158e311a3101950348dcecb1bebc42d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/13/13eb80ce50ac9c43cdbaf2109c0ec7db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/16/1638f3415e6a8594ba9323f0ba3c5acf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/17/178008567c08e6d84014fa87825d10bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/17/17b632677410799367a53dc7ab96a8c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/19/19ead9387dc9ef14fad0436a846268f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/1c/1cf2469083ffa484da4d78dd70d708e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/20/204a570cd0814334ba2fd79718030cc0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/2642008eb81683d4dbc7cd4ad6a2c485" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/28/2808ba6bccb2478ec9c7209d8bf1f3cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/2d/2d142b475fbfb8cf12ba3a795194300a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/2d/2d6ba5cbe47e6ad3c87474c56174d4e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/37/376c84ea405e0f2b80562c23bb977216" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/38/38e3a8976f0b9c586b6dfbcef4e4066c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/39/39728903e57c60021f80449a8bbc0096" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/39/39833c7f0bc5a1e45918def74b04d29f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/39/39833c7f0bc5a1e45918def74b04d29f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3d/3d68b8c275ff71b428dfc975ce187b8b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3d/3d68b8c275ff71b428dfc975ce187b8b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3f/3f0c4389c854bcaf848af1ea310dbada" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/48/48b10b41f58d5b49717f376cda59eeb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4a/4a813084baf34314aa7b09881c317646" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4d/4d64205430999a04981dab6f259b6e44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/51/515638b803bef8599dbd6d5c8bdaa53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/54/5469ef0820152a4ae45d400fdc4626e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5c/5c38c5679d98faa4ae7df9fae0a8226e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5e/5e27b1dcd46fbfb459fd62aef1d20f07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/64/6416c33b0bf58844fa4cc6d5182f23cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6e/6e1c8b97ec8aa0464e92506ffe099558" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6f/6f1c7ebc8ac78cb951be24c238cbd3ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/74/74101c7619674b24d82777e7458e0977" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/85/850c54ee0b9e1aa740b1c67792eb1f26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/95/95f85adeda79e994f011eb2152cf4fc9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9b/9b3a918d590e4e1459441f9ead225410" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9c/9c7c268fa6492449654839df69f2a2f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9e/9e90539d52d265c48b584d771474c5b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9e/9e90539d52d265c48b584d771474c5b3.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/aa/aa2083952c228ce409569f5d690c4dd9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ad/ad3539a1bf7ab2c41ba07a9f67559f6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b0/b065703cfbf00f74bb12dd5fc273ec59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b2/b219c86ce508e478367c0a46e1aa9fe4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b2/b2e8052ffeed20b45b8894f3d9cb5b4c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b2/b2e8052ffeed20b45b8894f3d9cb5b4c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b7/b77b1ad9c05af0412725856c6c53b037" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/bc/bcd65d36aab42b14aa2f5f3f88abcbe3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/bc/bcd65d36aab42b14aa2f5f3f88abcbe3.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c0/c060426bfd6e82575228df6656368eaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c1/c1080467a31b756c24b7e92941044962" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c4/c4df1124e2787ee0c8d1a911de17ee73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c5/c522a644a29fcab2eaf63298c118a65b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ca/cabaa672b0e3ee91fa7b6da4daab7970" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d5/d5f0b0adc6826e9dd3b72e292e8438be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d6/d6c6a000a805f00649b36b542e8426c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d6/d6db7caf2e852b75ebb9c6098418179c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/db/db2c1ccad7abc5945acd3342facc4e4c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/dc/dcc8c6e92b172a65719af5ddf47dd968" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/e3/e33383ce3afd26c41a6994f0af6a6743" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ed/ede0462698a4a5643aa9872c074acd38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/fc/fc3a810351931f5e6183e16b9beb5563" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/fd/fd871a8be47119612f7c254e96a822b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/9800b2f5cb152514caddd8efe390029a.bakert" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/9800b2f5cb152514caddd8efe390029a.bakert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityLockfile" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/UnityLockfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-045ca4e2f20bb814c8fa5ee36c186132" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2201aac58fdfda243931b4671e44e89b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-25eb32a73c213f24eb61069663b2e50b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2d3093f6f904ece4ba210f644a57bdd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-42bb9b48db06a58459a0da865caa860a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4a1f64714156f2f4a8189ad49d0a8271" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4b8e9a021c538064881ee86885996cfb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4fcdd43dce22b264e999ad113ddac3a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5792523ec633aaa41a8092c20b761f4e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-59dd8565b845e0444a58b353062160a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-62868551fd3958f4285eae71925ad593" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6a65e002748f68048b3d0c284b5e6191" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6d758a164235fc14bae3976842ebd493" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7728cf27a69132140a4ddc82632b4b0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7fa28ff14cd275a4bb8792ed3b293c7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-815997e2a7fcfd040a2caf736ce865d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-82a9f6ce5b15b9b408eb23873983f563" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-898b191f88d7b524085e6bf15c6ab08b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-94a24c6b8e067c2409ffb73d00f589f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9d275b360b4d6d049a0dc1e298e88c1d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-aa51151c6ec1697429a39bf95167a31f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-acc4529979b3fa9479cfdcc3ae1f5621" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bc11c46d992d32a4784674bd52b4a927" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bf06f8bd8d46844409a5450b66f1970b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cb9868df748d2094c8e2bfb3cc11e45a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-dc5f246d81e2ed64b8f3bdbbfd9d05ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-efddba4bd9b47f6409a071a906910eac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f27538ab67000f24bb7ac4bd2b96f25b" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1637973866">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="236" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="236" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/MainIntelligenceDirectorate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+              <folding>
+                <marker date="1544376241353" expanded="true" signature="6:52" ph="..." />
+                <marker date="1544376241353" expanded="true" signature="110:664" ph="{...}" />
+                <marker date="1544376241353" expanded="true" signature="232:465" ph="{...}" />
+                <marker date="1544376241353" expanded="true" signature="393:459" ph="{...}" />
+                <marker date="1544376241353" expanded="true" signature="552:662" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/StepBCDHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <marker date="1544376143311" expanded="true" signature="6:32" ph="..." />
+                <marker date="1544376143311" expanded="true" signature="76:931" ph="{...}" />
+                <marker date="1544376143311" expanded="true" signature="83:441" ph="Events" />
+                <marker date="1544376143311" expanded="true" signature="102:187" ph="/// Вызывается, когда срабатывает OnTriggerEnter ... " />
+                <marker date="1544376143311" expanded="true" signature="341:425" ph="/// Вызывается, когда срабатывает OnTriggerExit ... " />
+                <marker date="1544376143311" expanded="true" signature="497:584" ph="{...}" />
+                <marker date="1544376143311" expanded="true" signature="635:723" ph="{...}" />
+                <marker date="1544376143311" expanded="true" signature="772:929" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/AppearEnviroment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="110" selection-start-line="20" selection-start-column="110" selection-end-line="20" selection-end-column="110" />
+              <folding>
+                <marker date="1544372515356" expanded="false" signature="6:78" ph="..." />
+                <marker date="1544372515356" expanded="true" signature="125:1036" ph="{...}" />
+                <marker date="1544372515356" expanded="true" signature="456:1034" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/MainIntelligenceDirectorate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/StepBCDHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AppearEnviroment.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/scripts/AppearEnviroment.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/StepBCDHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/MainIntelligenceDirectorate.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tower defense 3" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tower defense 3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tower defense 3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b4ea63-d548-4858-a636-4f7891b997f8" name="Default Changelist" comment="" />
+      <created>1544371315706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544371315706</updated>
+      <workItem from="1544371319588" duration="2865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2865000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18390192" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.329718" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18390192" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="2" />
+      <window_info anchor="bottom" id="Inspection Results" order="3" weight="0.329718" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/BoxColliderListener.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyaghkiyZnak.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spawner.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/AppearEnviroment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="110" selection-start-line="20" selection-start-column="110" selection-end-line="20" selection-end-column="110" />
+          <folding>
+            <marker date="1544372515356" expanded="false" signature="6:78" ph="..." />
+            <marker date="1544372515356" expanded="true" signature="125:1036" ph="{...}" />
+            <marker date="1544372515356" expanded="true" signature="456:1034" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/MainIntelligenceDirectorate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+          <folding>
+            <marker date="1544376241353" expanded="true" signature="6:52" ph="..." />
+            <marker date="1544376241353" expanded="true" signature="110:664" ph="{...}" />
+            <marker date="1544376241353" expanded="true" signature="232:465" ph="{...}" />
+            <marker date="1544376241353" expanded="true" signature="393:459" ph="{...}" />
+            <marker date="1544376241353" expanded="true" signature="552:662" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/StepBCDHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1544376143311" expanded="true" signature="6:32" ph="..." />
+            <marker date="1544376143311" expanded="true" signature="76:931" ph="{...}" />
+            <marker date="1544376143311" expanded="true" signature="83:441" ph="Events" />
+            <marker date="1544376143311" expanded="true" signature="102:187" ph="/// Вызывается, когда срабатывает OnTriggerEnter ... " />
+            <marker date="1544376143311" expanded="true" signature="341:425" ph="/// Вызывается, когда срабатывает OnTriggerExit ... " />
+            <marker date="1544376143311" expanded="true" signature="497:584" ph="{...}" />
+            <marker date="1544376143311" expanded="true" signature="635:723" ph="{...}" />
+            <marker date="1544376143311" expanded="true" signature="772:929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

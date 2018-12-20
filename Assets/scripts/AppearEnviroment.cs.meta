@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: ac6795c637cb0c74289aace93668b5c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundPrefab: {fileID: 54725344567909402, guid: 5a83502421392264b88f0f1a3dbb3cde,
+      type: 2}
+  - ground: {instanceID: 0}
+  - rocksPrefab: {fileID: 54383507262604928, guid: 5cb91a0d89d848044807090013ae8fa4,
+      type: 2}
+  - rocks: {instanceID: 0}
+  - treePrefab: {fileID: 54871012606575172, guid: 869b96737cea33e4cae40b558ffc7ce3,
+      type: 2}
+  - tree: {instanceID: 0}
+  - towerPrefab: {fileID: 54027679053174792, guid: da6433f8d1df13a4199f724d9f26bb3c,
+      type: 2}
+  - tower: {instanceID: 0}
+  - mortar: {instanceID: 0}
+  - mortarPrefab: {fileID: 54478684174157828, guid: 062869aedc8eb5c45815846b832aefc2,
+      type: 2}
+  - BallisticComputer: {instanceID: 0}
+  - BallisticComputerPrefab: {fileID: 54367820648352076, guid: 1c099d2b373b72447bbb484d3ecf938e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
